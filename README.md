@@ -1,2 +1,1 @@
-# csanyideneshu
-This is a template page.
+This is a temlate page!
